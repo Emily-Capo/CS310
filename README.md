@@ -1,2 +1,4 @@
-# CS310
-CS310
+# CS 310 C++
+## Contributors
+- Robert Flowers
+- Emily Capodarco
