@@ -1,4 +1,7 @@
 #include <iostream>
+// Emily Capodarco
+// Week 3 Discusion
+// 9/24/26
 using namespace std;
 
 int main() {
