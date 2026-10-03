@@ -6,5 +6,5 @@ int main() {
         cout << i << endl; // Missing Semicolon
     }
 
-    return 0;
+    return 0; // Misspelled retrn >> return
 }
