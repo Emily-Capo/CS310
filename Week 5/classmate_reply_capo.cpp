@@ -1,6 +1,6 @@
 #include <iostream>
-
-void an_incorrect_function() {
+double improperly_declared_function(); // added the function so cpp knows it exists
+int an_incorrect_function() { // Fixed void to int to properly return number of puppies
     int number_of_puppies = 3;
 
     std::cout << number_of_puppies << "?!" << std::endl;
