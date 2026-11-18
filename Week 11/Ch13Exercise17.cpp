@@ -2,7 +2,8 @@
 #include <vector>
 #include <random>
 #include <stdexcept>
-
+// Emily Capodarco
+// 11/22/2026
 using namespace std;
 
 int main() {
